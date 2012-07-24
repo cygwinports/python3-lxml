@@ -1,4 +1,0 @@
-inherit distutils
-
-DESCRIPTION="Python XML2/XSLT bindings"
-HOMEPAGE="http://codespeak.net/lxml/"
