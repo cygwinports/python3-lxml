@@ -1,7 +1,7 @@
 inherit python3-distutils
 
 NAME="python3-lxml"
-VERSION=3.0.2
+VERSION=3.2.1
 RELEASE=1
 CATEGORY="Python"
 SUMMARY="Py3K XML2/XSLT bindings"
@@ -9,4 +9,4 @@ DESCRIPTION="lxml is a Pythonic binding for the libxml2 and libxslt
 libraries. It is unique in that it combines the speed and feature
 completeness of these libraries with the simplicity of a native Python
 API, mostly compatible but superior to the well-known ElementTree API."
-HOMEPAGE="http://codespeak.net/lxml/"
+HOMEPAGE="http://lxml.de/"
